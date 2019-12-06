@@ -1,3 +1,3 @@
 # Bpptstrap_Cover
 シンプルで美しいホームページのワンページテンプレートです。
-![サンプル画像_cover](https://user-images.githubusercontent.com/53010346/68408221-50dd7880-01c8-11ea-9cce-50009517addb.png)
+![cover](https://user-images.githubusercontent.com/53010346/70334241-68bc2100-1888-11ea-8d08-aeb0bf505847.png)
